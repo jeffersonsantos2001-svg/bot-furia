@@ -1,0 +1,210 @@
+{
+  "pendentes": {
+    "1163124322341228544": {
+      "userId": "1163124322341228544",
+      "nome": "pedro",
+      "idJogo": "12729",
+      "idade": 18,
+      "createdAt": "2026-04-13T23:09:20.677Z"
+    },
+    "1469425670412042497": {
+      "userId": "1469425670412042497",
+      "nome": "Pedro Lucas",
+      "idJogo": "14667",
+      "idade": 14,
+      "createdAt": "2026-04-13T23:29:23.073Z"
+    }
+  },
+  "recrutamentos": [
+    {
+      "userId": "1",
+      "userTag": "sabores gelado",
+      "nome": "sabores gelado",
+      "idJogo": "5359",
+      "recrutadorId": "thzin",
+      "recrutadorTag": "thzin",
+      "aprovadoPor": "import",
+      "aprovadoPorId": "0",
+      "aprovadoEm": "2026-04-13T21:42:58.642774",
+      "monthKey": "2026-04"
+    },
+    {
+      "userId": "2",
+      "userTag": "FERNADINHO",
+      "nome": "FERNADINHO",
+      "idJogo": "8954",
+      "recrutadorId": "desconhecido",
+      "recrutadorTag": "desconhecido",
+      "aprovadoPor": "import",
+      "aprovadoPorId": "0",
+      "aprovadoEm": "2026-04-13T21:42:58.642792",
+      "monthKey": "2026-04"
+    },
+    {
+      "userId": "3",
+      "userTag": "menor",
+      "nome": "menor",
+      "idJogo": "13718",
+      "recrutadorId": "th",
+      "recrutadorTag": "th",
+      "aprovadoPor": "import",
+      "aprovadoPorId": "0",
+      "aprovadoEm": "2026-04-13T21:42:58.642795",
+      "monthKey": "2026-04"
+    },
+    {
+      "userId": "4",
+      "userTag": "Arthur",
+      "nome": "Arthur",
+      "idJogo": "11787",
+      "recrutadorId": "JUQUINHA",
+      "recrutadorTag": "[LIDER] JUQUINHA",
+      "aprovadoPor": "import",
+      "aprovadoPorId": "0",
+      "aprovadoEm": "2026-04-13T21:42:58.642797",
+      "monthKey": "2026-04"
+    },
+    {
+      "userId": "5",
+      "userTag": "Bela",
+      "nome": "Bela",
+      "idJogo": "13907",
+      "recrutadorId": "JUQUIN",
+      "recrutadorTag": "[LIDER] JUQUIN",
+      "aprovadoPor": "import",
+      "aprovadoPorId": "0",
+      "aprovadoEm": "2026-04-13T21:42:58.642800",
+      "monthKey": "2026-04"
+    },
+    {
+      "userId": "6",
+      "userTag": "pedrim",
+      "nome": "pedrim",
+      "idJogo": "13904",
+      "recrutadorId": "JUQUIN",
+      "recrutadorTag": "[LIDER] JUQUIN",
+      "aprovadoPor": "import",
+      "aprovadoPorId": "0",
+      "aprovadoEm": "2026-04-13T21:42:58.642802",
+      "monthKey": "2026-04"
+    },
+    {
+      "userId": "7",
+      "userTag": "viniciusdotiro",
+      "nome": "viniciusdotiro",
+      "idJogo": "13054",
+      "recrutadorId": "Gustavo",
+      "recrutadorTag": "[00] Gustavo💀",
+      "aprovadoPor": "import",
+      "aprovadoPorId": "0",
+      "aprovadoEm": "2026-04-13T21:42:58.642804",
+      "monthKey": "2026-04"
+    },
+    {
+      "userId": "8",
+      "userTag": "epaminindas",
+      "nome": "epaminindas",
+      "idJogo": "7237",
+      "recrutadorId": "QUERIDÃO",
+      "recrutadorTag": "[GER] QUERIDÃO",
+      "aprovadoPor": "import",
+      "aprovadoPorId": "0",
+      "aprovadoEm": "2026-04-13T21:42:58.642806",
+      "monthKey": "2026-04"
+    },
+    {
+      "userId": "9",
+      "userTag": "Arthur2",
+      "nome": "Arthur",
+      "idJogo": "7238",
+      "recrutadorId": "QUERIDÃO",
+      "recrutadorTag": "[GER] QUERIDÃO",
+      "aprovadoPor": "import",
+      "aprovadoPorId": "0",
+      "aprovadoEm": "2026-04-13T21:42:58.642808",
+      "monthKey": "2026-04"
+    },
+    {
+      "userId": "10",
+      "userTag": "ASTRO",
+      "nome": "ASTRO",
+      "idJogo": "14125",
+      "recrutadorId": "QUERIDÃO",
+      "recrutadorTag": "[GER] QUERIDÃO",
+      "aprovadoPor": "import",
+      "aprovadoPorId": "0",
+      "aprovadoEm": "2026-04-13T21:42:58.642811",
+      "monthKey": "2026-04"
+    },
+    {
+      "userId": "11",
+      "userTag": "LIPE",
+      "nome": "LIPE",
+      "idJogo": "14119",
+      "recrutadorId": "QUERIDÃO",
+      "recrutadorTag": "[GER] QUERIDÃO",
+      "aprovadoPor": "import",
+      "aprovadoPorId": "0",
+      "aprovadoEm": "2026-04-13T21:42:58.642813",
+      "monthKey": "2026-04"
+    },
+    {
+      "userId": "12",
+      "userTag": "porto mlkdahora",
+      "nome": "porto mlkdahora",
+      "idJogo": "14292",
+      "recrutadorId": "JUQUINHA",
+      "recrutadorTag": "[LIDER] JUQUINHA",
+      "aprovadoPor": "import",
+      "aprovadoPorId": "0",
+      "aprovadoEm": "2026-04-13T21:42:58.642816",
+      "monthKey": "2026-04"
+    },
+    {
+      "userId": "13",
+      "userTag": "Sara Dts",
+      "nome": "Sara Dts",
+      "idJogo": "14311",
+      "recrutadorId": "CHICO",
+      "recrutadorTag": "[LIDER] CHICO ESPERTO",
+      "aprovadoPor": "import",
+      "aprovadoPorId": "0",
+      "aprovadoEm": "2026-04-13T21:42:58.642818",
+      "monthKey": "2026-04"
+    },
+    {
+      "userId": "987407244373151846",
+      "userTag": "jef.4",
+      "nome": "Ggg",
+      "idJogo": "1834",
+      "idade": 20,
+      "recrutadorId": "521369547995873300",
+      "recrutadorTag": "jefluket",
+      "aprovadoPor": "jefluket",
+      "aprovadoPorId": "521369547995873300",
+      "aprovadoEm": "2026-04-13T22:46:32.525Z",
+      "monthKey": "2026-04",
+      "setagemHistory": [],
+      "nicknameApplied": true
+    },
+    {
+      "userId": "1481234413458165873",
+      "userTag": "vitinho20012",
+      "nome": "Mongoloide Africano",
+      "idJogo": "14576",
+      "idade": 20,
+      "recrutadorId": "1090461757417472100",
+      "recrutadorTag": "alemaozno",
+      "aprovadoPor": "alemaozno",
+      "aprovadoPorId": "1090461757417472100",
+      "aprovadoEm": "2026-04-13T23:41:07.656Z",
+      "monthKey": "2026-04",
+      "setagemHistory": [],
+      "nicknameApplied": true
+    }
+  ],
+  "rankingMessageId": "1493381638300766400",
+  "monthlyArchiveMessageIds": {},
+  "lastArchiveCheckMonth": "2026-04",
+  "panelMessageId": "1493381628636954715"
+}
