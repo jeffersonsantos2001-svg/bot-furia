@@ -46,7 +46,7 @@ const CONFIG = {
         '[⚙️ Em Setagem]',
       '「Gerência・FURIA」',
       '[LIDER.00] Gustavo',
-      '「REC」・FURIA',
+      '「REC」・FURIA」',
       '「LIDER. FURIA」',
     ],
   },
