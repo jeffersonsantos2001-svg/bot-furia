@@ -152,7 +152,11 @@ function getRecruiterRoleNames() {
 }
 
 function hasApprovalRole(member) {
-  return member.roles.cache.some((role) => getRecruiterRoleNames().includes(role.name));
+  return (
+    member.roles.cache.has(process.env.REC_ROLE_ID) ||
+    member.roles.cache.has(process.env.GERENCIA_ROLE_ID) ||
+    member.roles.cache.has(process.env.EM_SETAGEM_ROLE_ID)
+  );
 }
 
 function isManager(member) {
