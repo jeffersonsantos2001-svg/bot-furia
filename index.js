@@ -153,9 +153,12 @@ function getRecruiterRoleNames() {
 
 function hasApprovalRole(member) {
   return (
-    member.roles.cache.has(process.env.REC_ROLE_ID) ||
-    member.roles.cache.has(process.env.GERENCIA_ROLE_ID) ||
-    member.roles.cache.has(process.env.EM_SETAGEM_ROLE_ID)
+    member.roles.cache.has(CONFIG.roles.rec) || // 🔥 ESSENCIAL
+    member.roles.cache.has(CONFIG.roles.gerencia) ||
+    member.roles.cache.has(CONFIG.roles.emSetagem) ||
+    member.roles.cache.some(role =>
+      CONFIG.roles.recruiterRoleNames.includes(role.name.trim())
+    )
   );
 }
 
